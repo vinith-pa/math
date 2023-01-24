@@ -41,7 +41,7 @@ footer {
   background: var(--four);
 }
 #quiz {
-  font-size: 5rem;
+  font-size: 4rem;
   display: inline-block;
 }
 
@@ -71,7 +71,7 @@ footer {
 }
 
 #guessContainer span {
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .cursor {
@@ -94,7 +94,6 @@ footer {
   display: grid;
   justify-content: center;
   align-content: center;
-  min-height: 40vh;
   grid-template-columns: repeat(3, 5rem);
   grid-template-rows: repeat(4, 5rem);
   /* border: 0.2rem solid var(--four); */
