@@ -27,6 +27,7 @@ header {
   color: var(--four);
   z-index: 3;
 }
+
 footer {
   display: flex;
   justify-content: center;
